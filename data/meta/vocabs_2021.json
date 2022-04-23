@@ -1,0 +1,1108 @@
+{
+    "avid": {
+        "mean": {
+            "\u5f62": "\u6e34\u671b\u7684\uff1b\u71b1\u5fc3\u7684"
+        },
+        "date": "11/12/2021",
+        "proficiency": 1
+    },
+    "dedicate": {
+        "mean": {
+            "\u52d5": "\u5949\u737b\uff1b\u81f4\u529b"
+        },
+        "date": "11/12/2021",
+        "proficiency": 1
+    },
+    "eminent": {
+        "mean": {
+            "\u5f62": "\u5353\u8d8a\u7684\uff1b\u8457\u540d\u7684"
+        },
+        "date": "11/12/2021",
+        "proficiency": 1
+    },
+    "inspiring": {
+        "mean": {
+            "\u5f62": "\u555f\u767c\u9748\u611f\u7684\uff1b\u9f13\u821e\u4eba\u5fc3\u7684"
+        },
+        "date": "11/12/2021",
+        "proficiency": 1
+    },
+    "memorable": {
+        "mean": {
+            "\u5f62": "\u503c\u5f97\u7d00\u5ff5\u7684"
+        },
+        "date": "11/12/2021",
+        "proficiency": 1
+    },
+    "praiseworthy": {
+        "mean": {
+            "\u5f62": "\u503c\u5f97\u8a87\u734e\u7684"
+        },
+        "date": "11/12/2021",
+        "proficiency": 1
+    },
+    "approval": {
+        "mean": {
+            "\u540d": "\u8a8d\u53ef\uff1b\u8d0a\u6210"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "attach": {
+        "mean": {
+            "\u52d5": "\u9644\u52a0\uff1b\u9644\u4ef6\uff1b\u9023\u7d50"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "branch": {
+        "mean": {
+            "\u52d5": "\u5206\u90e8"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "newsletter": {
+        "mean": {
+            "\u540d": "\u901a\u5831"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "in charge": {
+        "mean": {
+            "\u7247": "\u8ca0\u8cac"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "in-house": {
+        "mean": {
+            "\u7247": "\u5167\u90e8"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "instruct": {
+        "mean": {
+            "\u52d5": "\u6307\u5b9a\uff1b\u8aaa\u660e"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "notify": {
+        "mean": {
+            "\u52d5": "\u901a\u77e5\uff1b\u544a\u77e5"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "office supply": {
+        "mean": {
+            "\u540d": "\u8fa6\u516c\u5ba4\u7528\u54c1"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "overtime": {
+        "mean": {
+            "\u540d": "\u52a0\u73ed"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "placement": {
+        "mean": {
+            "\u540d": "\u8077\u4f4d\uff1b\u5de5\u4f5c\uff1b\u5d17\u4f4d"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "post": {
+        "mean": {
+            "\u52d5": "\u516c\u5e03"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "progress": {
+        "mean": {
+            "\u540d": "\u9032\u5ea6\uff1b\u9032\u884c"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "promote": {
+        "mean": {
+            "\u52d5": "\u5347\u9077"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "review": {
+        "mean": {
+            "\u540d": "\u6aa2\u8996"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "shift": {
+        "mean": {
+            "\u52d5": "\u8f2a\u73ed\uff1b\u8abf\u73ed"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "submit": {
+        "mean": {
+            "\u52d5": "\u63d0\u4ea4"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "supervise": {
+        "mean": {
+            "\u52d5": "\u76e3\u7763"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "affiliate": {
+        "mean": {
+            "\u540d": "\u6240\u5c6c\u6a5f\u69cb",
+            "\u52d5": "\u651c\u624b\uff1b\u806f\u5408"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "conduct": {
+        "mean": {
+            "\u52d5": "\u57f7\u884c"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "seminar": {
+        "mean": {
+            "\u540d": "\u7814\u8a0e\u6703"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "convention": {
+        "mean": {
+            "\u540d": "\u7fd2\u4fd7\uff1b\u5927\u6703"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "convention hall": {
+        "mean": {
+            "\u540d": "\u6703\u8b70\u5ef3"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "enroll": {
+        "mean": {
+            "\u52d5": "\u767b\u5165"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "exposition": {
+        "mean": {
+            "\u540d": "\u5c55\u6703\uff1b\u535a\u89bd\u6703"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "headquarters": {
+        "mean": {
+            "\u540d": "\u7e3d\u90e8\uff1b\u7e3d\u516c\u53f8"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "participate": {
+        "mean": {
+            "\u52d5": "\u53c3\u8207"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "patron": {
+        "mean": {
+            "\u540d": "\u719f\u5ba2\uff1b\u8cc7\u52a9\u8005"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "trade fair": {
+        "mean": {
+            "\u540d": "\u8cbf\u6613\u5c55"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "amenity": {
+        "mean": {
+            "\u540d": "\u4fbf\u5229\u8a2d\u65bd\uff1b\u79ae\u5100\uff1b\u548c\u85f9"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "availability": {
+        "mean": {
+            "\u540d": "\u53ef\u7528\u6027"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "cafeteria": {
+        "mean": {
+            "\u540d": "\u81ea\u52a9\u9910"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "comfortable": {
+        "mean": {
+            "\u5f62": "\u8212\u9069\u7684\uff1b\u8212\u670d\u7684"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "decent": {
+        "mean": {
+            "\u5f62": "\u5f97\u9ad4\u7684"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "facility": {
+        "mean": {
+            "\u540d": "\u8a2d\u65bd\uff1b\u5834\u6240"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "reasonable": {
+        "mean": {
+            "\u5f62": "\u5408\u7406\u7684\uff1b\u9069\u5ea6\u7684"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "arrangement": {
+        "mean": {
+            "\u540d": "\u5b89\u6392"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "appointment1": {
+        "mean": {
+            "\u540d": "\u9810\u7d04"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "modification": {
+        "mean": {
+            "\u540d": "\u4fee\u6539"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "one-way": {
+        "mean": {
+            "\u540d": "\u55ae\u7a0b\u7684"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "pack": {
+        "mean": {
+            "\u52d5": "\u5305\u88dd"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "postpone": {
+        "mean": {
+            "\u52d5": "\u5ef6\u5f8c\uff1b\u5ef6\u671f"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "provision": {
+        "mean": {
+            "\u52d5": "\u898f\u5b9a\uff1b\u4f9b\u98df",
+            "\u540d": "\u689d\u7d04\uff1b\u7ce7\u98df\uff1b\u9810\u9632"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "provisional": {
+        "mean": {
+            "\u5f62": "\u66ab\u6642\u7684"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "round-trip": {
+        "mean": {
+            "\u5f62": "\u4f86\u56de\u7684"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "unexpectedly": {
+        "mean": {
+            "\u526f": "\u7a81\u7136\u7684\uff1b\u6c92\u6709\u9810\u6599\u5230\u7684"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "orientation": {
+        "mean": {
+            "\u540d": "\u8fce\u65b0\uff1b\u65b9\u5411"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "absense": {
+        "mean": {
+            "\u540d": "\u7f3a\u5e2d"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "proficient": {
+        "mean": {
+            "\u540d": "\u7cbe\u901a",
+            "\u5f62": "\u7cbe\u901a\u7684"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "colleague": {
+        "mean": {
+            "\u540d": "\u540c\u4e8b"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "hesitant": {
+        "mean": {
+            "\u5f62": "\u7336\u8c6b\u7684"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "anxious": {
+        "mean": {
+            "\u5f62": "\u7126\u616e\u7684"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "shortlist": {
+        "mean": {
+            "\u52d5": "\u5165\u570d"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "apprentice": {
+        "mean": {
+            "\u540d": "\u5b78\u5f92"
+        },
+        "date": "19/12/2021",
+        "proficiency": 1
+    },
+    "ambience": {
+        "mean": {
+            "\u540d": "\u6c23\u6c1b\uff1b\u74b0\u5883"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "appetizer": {
+        "mean": {
+            "\u540d": "\u524d\u83dc"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "bargain": {
+        "mean": {
+            "\u540d": "\u7279\u50f9\u54c1",
+            "\u52d5": "\u8a0e\u50f9\u9084\u50f9"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "bustling": {
+        "mean": {
+            "\u540d": "\u5fd9\u788c"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "certified": {
+        "mean": {
+            "\u5f62": "\u8a8d\u8b49\u7684\uff1b\u6709\u4fdd\u969c\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "cuisine": {
+        "mean": {
+            "\u540d": "\u6599\u7406"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "diner": {
+        "mean": {
+            "\u540d": "\u7528\u9910\u8005"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "dish": {
+        "mean": {
+            "\u540d": "\u76e4\u5b50"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "entr\u00e9e": {
+        "mean": {
+            "\u540d": "\u4e3b\u98df"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "family-owned": {
+        "mean": {
+            "\u5f62": "\u5bb6\u5ead\u7d93\u71df\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "franchise": {
+        "mean": {
+            "\u540d": "\u52a0\u76df\u5e97\uff1b\u52a0\u76df\u6b0a"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "grocery": {
+        "mean": {
+            "\u540d": "\u96dc\u8ca8\uff1b\u96dc\u8ca8\u5e97"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "licensed": {
+        "mean": {
+            "\u5f62": "\u5f97\u5230\u8a31\u53ef\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "pricey": {
+        "mean": {
+            "\u5f62": "\u50f9\u683c\u9ad8\u7684\uff1b\u6602\u8cb4\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "serving": {
+        "mean": {
+            "\u540d": "\u670d\u52d9\uff1b\u4e0a\u83dc"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "showroom": {
+        "mean": {
+            "\u540d": "\u5c55\u793a\u9593"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "storage": {
+        "mean": {
+            "\u540d": "\u5eab\u5b58"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "unparalleded": {
+        "mean": {
+            "\u5f62": "\u7a7a\u524d\u7684\uff1b\u7121\u6bd4\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "vegetarian": {
+        "mean": {
+            "\u540d": "\u7d20\u98df\u8005",
+            "\u5f62": "\u7d20\u98df\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "administrative": {
+        "mean": {
+            "\u5f62": "\u7ba1\u7406\u7684\uff1b\u884c\u653f\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "application": {
+        "mean": {
+            "\u540d": "\u7533\u8acb\uff1b\u7533\u8acb\u66f8"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "cover letter": {
+        "mean": {
+            "\u540d": "\u6c42\u8077\u4fe1"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "dismiss": {
+        "mean": {
+            "\u52d5": "\u89e3\u50f1\uff1b\u958b\u9664"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "dispatch": {
+        "mean": {
+            "\u52d5": "\u6d3e\u9063\uff1b\u6d3e\u51fa"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "employment": {
+        "mean": {
+            "\u540d": "\u96c7\u7528"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "layoff": {
+        "mean": {
+            "\u540d": "\u89e3\u50f1\uff1b\u958b\u9664"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "payroll": {
+        "mean": {
+            "\u540d": "\u767c\u85aa\u540d\u55ae\uff1b\u5de5\u8cc7\u8868"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "pension": {
+        "mean": {
+            "\u540d": "\u9000\u4f11\u91d1\uff1b\u6d25\u8cbc"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "requisite": {
+        "mean": {
+            "\u540d": "\u5fc5\u9700\u54c1",
+            "\u5f62": "\u5fc5\u9808\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "prequisite": {
+        "mean": {
+            "\u540d": "\u5fc5\u8981\u689d\u4ef6",
+            "\u5f62": "\u5fc5\u9808\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "probationary": {
+        "mean": {
+            "\u5f62": "\u8a66\u7528\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "recruit": {
+        "mean": {
+            "\u52d5": "\u62db\u52df",
+            "\u540d": "\u65b0\u54e1\u5de5"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "resignation": {
+        "mean": {
+            "\u540d": "\u96e2\u8077"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "retirement": {
+        "mean": {
+            "\u540d": "\u9000\u4f11"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "accompany": {
+        "mean": {
+            "\u52d5": "\u966a\u4f34\uff1b\u966a\u540c"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "architectural": {
+        "mean": {
+            "\u5f62": "\u5efa\u7bc9\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "ceiling": {
+        "mean": {
+            "\u540d": "\u5929\u82b1\u677f"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "couch": {
+        "mean": {
+            "\u540d": "\u9577\u6c99\u767c"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "cozy": {
+        "mean": {
+            "\u5f62": "\u8212\u670d\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "evacuate": {
+        "mean": {
+            "\u52d5": "\u6e05\u7a7a\uff1b\u758f\u6563"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "flat": {
+        "mean": {
+            "\u540d": "\u516c\u5bd3"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "furnished": {
+        "mean": {
+            "\u5f62": "\u5099\u6709\u5bb6\u5177\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "garage": {
+        "mean": {
+            "\u540d": "\u8eca\u5eab\uff1b\u4fee\u8eca\u5ee0"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "housing": {
+        "mean": {
+            "\u540d": "\u4f4f\u5b85"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "inhabitant": {
+        "mean": {
+            "\u540d": "\u5c45\u6c11\uff1b\u4f4f\u6236"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "landlord": {
+        "mean": {
+            "\u540d": "\u623f\u6771\uff1b\u5730\u4e3b"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "lease": {
+        "mean": {
+            "\u540d": "\u79df\u7d04"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "outskirt": {
+        "mean": {
+            "\u540d": "\u90ca\u5340"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "parlor": {
+        "mean": {
+            "\u540d": "\u5ba2\u5ef3"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "premises": {
+        "mean": {
+            "\u540d": "\u5efa\u7bc9\u7269\u548c\u57fa\u5730"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "property": {
+        "mean": {
+            "\u540d": "\u623f\u5730\u7522"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "real estate": {
+        "mean": {
+            "\u540d": "\u4e0d\u52d5\u7522"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "remote": {
+        "mean": {
+            "\u5f62": "\u9059\u63a7\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "spacious": {
+        "mean": {
+            "\u5f62": "\u5bec\u655e\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "stroll": {
+        "mean": {
+            "\u52d5": "\u6563\u6b65",
+            "\u540d": "\u6563\u6b65"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "tenure": {
+        "mean": {
+            "\u540d": "\u4f54\u6709"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "vacant": {
+        "mean": {
+            "\u5f62": "\u7a7a\u7684\uff1b\u6c92\u88ab\u4f54\u7528\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "accommodation": {
+        "mean": {
+            "\u540d": "\u4f4f\u5bbf\uff1b\u4f4f\u8655"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "air": {
+        "mean": {
+            "\u540d": "\u5ee3\u64ad",
+            "\u52d5": "\u5ee3\u64ad"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "attraction": {
+        "mean": {
+            "\u540d": "\u666f\u9ede"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "boast": {
+        "mean": {
+            "\u52d5": "\u81ea\u8a87"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "fabulous": {
+        "mean": {
+            "\u5f62": "\u96e3\u4ee5\u7f6e\u4fe1\u7684\uff1b\u975e\u5e38\u597d\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "guided tour": {
+        "mean": {
+            "\u7247": "\u6709\u56ae\u5c0e\u7684\u65c5\u904a"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "inn": {
+        "mean": {
+            "\u540d": "\u5c0f\u65c5\u9928"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "lodge": {
+        "mean": {
+            "\u540d": "\u6797\u9593\u5c0f\u5c4b",
+            "\u52d5": "\u66ab\u4f4f"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "premiere": {
+        "mean": {
+            "\u52d5": "\u9996\u6620",
+            "\u540d": "\u9996\u6620"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "scenery": {
+        "mean": {
+            "\u540d": "\u98a8\u666f"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "souvenir": {
+        "mean": {
+            "\u540d": "\u7d00\u5ff5\u54c1"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "tropical": {
+        "mean": {
+            "\u5f62": "\u71b1\u5e36\u96e8\u6797\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "tune in": {
+        "mean": {
+            "\u7247": "\u6536\u770b\uff1b\u6536\u807d"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "collectibles": {
+        "mean": {
+            "\u540d": "\u6536\u85cf\u54c1"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "solicit": {
+        "mean": {
+            "\u52d5": "\u5fb5\u6c42\uff1b\u8a62\u554f"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "charitable": {
+        "mean": {
+            "\u5f62": "\u6148\u5584\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "charitable cause": {
+        "mean": {
+            "\u7247": "\u6148\u5584\u4e8b\u696d"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "grill": {
+        "mean": {
+            "\u52d5": "\u70e4"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "dwell": {
+        "mean": {
+            "\u52d5": "\u5c45\u4f4f"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "foldable": {
+        "mean": {
+            "\u5f62": "\u53ef\u6298\u758a\u7684"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "accessory": {
+        "mean": {
+            "\u540d": "\u914d\u4ef6"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "aspect": {
+        "mean": {
+            "\u540d": "\u65b9\u9762"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "duty": {
+        "mean": {
+            "\u540d": "\u8cac\u4efb"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "guarantee": {
+        "mean": {
+            "\u52d5": "\u4fdd\u8b49"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "compliance": {
+        "mean": {
+            "\u540d": "\u9075\u5b88\uff1b\u627f\u8afe"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "coach": {
+        "mean": {
+            "\u540d": "\u6559\u7df4",
+            "\u52d5": "\u8f14\u5c0e"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "familiarity": {
+        "mean": {
+            "\u540d": "\u719f\u6089\u5ea6"
+        },
+        "date": "25/12/2021",
+        "proficiency": 1
+    },
+    "variety": {
+        "mean": {
+            "\u540d": "\u7a2e\u985e\uff1b\u54c1\u7a2e"
+        },
+        "date": "27/12/2021",
+        "proficiency": 1
+    },
+    "vast": {
+        "mean": {
+            "\u5f62": "\u907c\u95ca\u7684\uff1b\u8c50\u5bcc\u7684"
+        },
+        "date": "27/12/2021",
+        "proficiency": 1
+    },
+    "bite": {
+        "mean": {
+            "\u52d5": "\u54ac"
+        },
+        "date": "27/12/2021",
+        "proficiency": 1
+    },
+    "a bite to eat": {
+        "mean": {
+            "\u7247": "\u54ac\u4e00\u53e3"
+        },
+        "date": "27/12/2021",
+        "proficiency": 1
+    },
+    "fare": {
+        "mean": {
+            "\u540d": "\u7968\u50f9\uff1b\u6d88\u8cbb\uff1b\u8cbb\u7528"
+        },
+        "date": "27/12/2021",
+        "proficiency": 1
+    },
+    "take advantage of": {
+        "mean": {
+            "\u7247": "\u5229\u7528"
+        },
+        "date": "27/12/2021",
+        "proficiency": 1
+    },
+    "holder": {
+        "mean": {
+            "\u540d": "\u6301\u6709\u8005"
+        },
+        "date": "27/12/2021",
+        "proficiency": 1
+    },
+    "tourist": {
+        "mean": {
+            "\u540d": "\u65c5\u904a\u8005"
+        },
+        "date": "27/12/2021",
+        "proficiency": 1
+    },
+    "shuttle": {
+        "mean": {
+            "\u540d": "\u73ed\u8eca",
+            "\u52d5": "\u7a7f\u68ad"
+        },
+        "date": "27/12/2021",
+        "proficiency": 1
+    },
+    "house": {
+        "mean": {
+            "\u52d5": "\u99d0\u5b88"
+        },
+        "date": "27/12/2021",
+        "proficiency": 1
+    },
+    "lounge": {
+        "mean": {
+            "\u540d": "\u4f11\u606f\u5ba4"
+        },
+        "date": "27/12/2021",
+        "proficiency": 1
+    },
+    "complimentary": {
+        "mean": {
+            "\u5f62": "\u514d\u8cbb\u7684"
+        },
+        "date": "27/12/2021",
+        "proficiency": 1
+    }
+}
