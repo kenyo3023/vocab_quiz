@@ -29,7 +29,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     vocabs_data = pd.read_csv(args.file)
-    vocabs = vocabs_data['單字']
+    vocabs = vocabs_data['單字'].dropna(axis=0).tolist()
     col_speech = []
     col_mean = []
     max_col_speech = 0
@@ -57,7 +57,12 @@ if __name__ == '__main__':
     print("New size of vocabs : %d" % (vocabs_count-repeat_vocabs_count))
 
     # Save the meta of vocabs to .json
-    meta_path = args.save
-    meta_name = "vocabs.json"
-    with open(os.path.join(meta_path, meta_name), 'w') as f:
+    _, ext = os.path.splitext(args.save)
+    if ext == '.json':
+        corpus = args.save
+    elif not ext:
+        corpus = os.path.join(args.save, "vocabs.json")
+    else:
+        raise ValueError("the config --save must be directory or file with ext '.json'")
+    with open(corpus, 'w') as f:
         json.dump(vocabs_meta, f, indent=4)
